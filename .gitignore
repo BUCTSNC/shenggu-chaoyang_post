@@ -1,4 +1,5 @@
 *.json
+!meta.json
 *.rar
 *.zip
 *.7z
