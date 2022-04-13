@@ -1,4 +1,3 @@
-# 校园建筑
 
 走入南涧路29号，首先映入眼帘的是与校园环境相映衬的校园建筑，在外观上，建筑的设计感与现代感并存，细节之处融入着北化特色；在内部使用上，建筑内设施一应俱全，室内设计人性化。昌平校区已经建成的体育馆、第一教学楼、实验楼、图书馆、工程训练中心、紫竹餐厅、后勤楼、宿舍楼和大学生活动中心在建筑位置和建筑外观上，都具有独特的设计巧思。
 
@@ -85,8 +84,4 @@
 [北区办](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=1Ko2BwAABwBjTc2fAAAUAA&mfid=WW0315-lfRRNQAABwB1mAQebRrcQQ7KCZc4c&idx=0&sn=27f085e2c64feafb373751742ab82f23)
 
 [新校区建设指挥部](https://open.work.weixin.qq.com/wwopen/mpnews?mixuin=1Ko2BwAABwBbBQVxAAAUAA&mfid=WW0301-CPmxtgAABwDoleSdnMSb-Axf6v_5b&idx=0&sn=0d395501fe70b4499eeb8dfbc4173d89)
-
-**撰稿人：王宁**
-
-**审核人：杨星月**
 
