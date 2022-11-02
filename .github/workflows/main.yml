@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout source code
-      uses: actions/checkout@v1
+      uses: actions/checkout@v2.5.0
     - name: Mirror Github to Gitee
       uses: ./.
       with:
@@ -16,6 +16,7 @@ jobs:
         dst: gitee/buctsnc
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
+        white_list: "shenggu-chaoyang_post"
         account_type: org
         force_update: true
         debug: true
