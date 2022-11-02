@@ -16,7 +16,7 @@ jobs:
         dst: gitee/buctsnc
         dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
         dst_token: ${{ secrets.GITEE_TOKEN }}
-        static_list: "shenggu-chaoyang_post"
+        static_list: "shenggu-chaoyang_post,shenggu-chaoyang_web"
         account_type: org
         force_update: true
         debug: true
